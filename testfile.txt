@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dadassss
+=======
+testfile
+edit testfile
+>>>>>>> 50a0e273ae2b836508e0adc938ca05ee529b3452
